@@ -1,0 +1,45 @@
+$HODOR: Hodor! = 99;
+$HODOR: Hodor = 'Hodor ';
+
+hodor............(Hodor! > 0){
+	HOdor!!!(Hodor! > 1){
+		HOdor!!!(Hodor! == 2){
+			Hodor  = '';  
+		}
+		hodor.hod(Hodor! + ' Hodor! ohodor. hodor. Hodor!? hodor? Hodor '
+		+ ' oHODOR!  Hodor! hodor? hodor? r oHODOR?  hodor. hhodor? '
+		+ ' HODOR!? HODOR Hodor!? Hodor!? , ' + Hodor! +  ' Hodor! o'
+		+ 'hodor. hodor. Hodor!? hodor? Hodor  oHODOR! '
+		+ ' Hodor! hodor? hodor? r.\HODOR? Hodor- HODOR hodor?! hodor? '
+		+ ' oHODOR? hodor?  doHODOR!? HODOR?  HODOR HODOR? d HODOR. '
+		+ 'HODOR Hodor Hodor  Hodor? hodor. '
+		+ ' HODOR rohodor!? HODOR? d, ' + --Hodor! 
+		+ ' Hodor! ohodor. hodor. Hodor!? hodor? ' + Hodor  + ' oHODOR! '
+		+ ' Hodor! hodor? hodor? r oHODOR?  hodor. hhodor? '
+		+ ' HODOR!? HODOR Hodor!? Hodor!? .\HODOR? ');
+	}hoDOR!!!{
+		hodor.hod(Hodor! + ' Hodor! ohodor. hodor. Hodor!? hodor?  oHODOR! '
+		+ ' Hodor! hodor? hodor? r oHODOR?  hodor. hhodor?  HODOR!? HODOR '
+		+ 'Hodor!? Hodor!? , ' + Hodor! +  ' Hodor! ohodor. hodor. Hodor!? '
+		+ 'hodor?  oHODOR!  Hodor! hodor? hodor? r.\HODOR? Hodor- HODOR '
+		+ 'hodor?! hodor?  oHODOR? hodor?  doHODOR!? HODOR? '
+		+ ' HODOR HODOR? d HODOR. HODOR Hodor Hodor  Hodor? hodor. '
+		+ ' HODOR rohodor!? HODOR? d, HODOR? o Hodor. orhodor? ' 
+		+ ' Hodor! ohodor. hodor. Hodor!? hodor? Hodor  oHODOR! '
+		+ ' Hodor! hodor? hodor? r oHODOR?  hodor. hhodor?  HODOR!? '
+		+ 'HODOR Hodor!? Hodor!? .\HODOR? ');
+		Hodor! --;
+	}
+}
+
+hodor.hod('HoOodoOorhodor o Hodor. orhodor?  Hodor! ohodor. hodor. Hodor!? '
+	+ 'hodor? Hodor  oHODOR!  Hodor! hodor? hodor? r oHODOR? '
+	+ ' hodor. hhodor?  HODOR!? HODOR Hodor!? Hodor!? '
+	+ ', HODOR? o Hodor. orhodor?  Hodor! ohodor. hodor. '
+	+ 'Hodor!? hodor? Hodor  oHODOR!  Hodor! hodor? hodor? r.\HODOR? '
+	+ 'HoOodoOorHodor o hodor. o hodor. hhodor?  Hodor hodor. orhodor? '
+	+ ' HODOR HODOR? d Hodor! hodor!? HODOR!?!  Hodor oHodor. hodor? '
+	+ ' Hodor. orhodor? , 99 Hodor! ohodor. hodor. Hodor!? hodor? Hodor '
+	+ ' oHODOR!  Hodor! hodor? hodor? r oHODOR?  hodor. '
+	+ 'hhodor?  HODOR!? HODOR Hodor!? Hodor!? .');
+
